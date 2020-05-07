@@ -11,14 +11,10 @@
 - **<i class="fad fa-language"></i> Chinese Community Contribution Guides** (中文社区贡献指南)
   - [Translate news articles (文章翻译计划)](/chinese-guides/news-translations.md)
   - [Translate videos (视频翻译计划)](/chinese-guides/video-translations.md)
-- **<i class="fad fa-laptop-code"></i> DevOps Guides**
-  - [How we build, test and deploy](/devops.md)
-- **<i class="fad fa-plane-alt"></i> Flight Manuals** (for Staff & Mods)
-  - [Using Reply Templates](/flight-manuals/using-reply-templates.md)
-  - [Work on Virtual Machines](/flight-manuals/working-on-virtual-machines.md)
-  - [Work on API Instances](/flight-manuals/working-on-api-instances.md)
-  - [Work on Web Server Instances](/flight-manuals/working-on-web-server-instances.md)
-----
+- [**<i class="fad fa-plane-alt"></i> Flight Manuals** (for Staff & Mods)](/flight-manuals/index.md)
+
+---
+
 - **<i class="fad fa-user-friends"></i> Our Community**
   - [**<i class="fab fa-github"></i> GitHub Repository**](https://github.com/freecodecamp/freecodecamp)
   - [**<i class="fab fa-discourse"></i> Contributors category on Forum**](https://freecodecamp.org/forum/c/contributors)
